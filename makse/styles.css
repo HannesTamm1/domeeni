@@ -1,0 +1,21 @@
+body {
+    background-color: #01162c;
+}
+
+.center-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.active-col {
+    background-color: #0d6efd; /* Bootstrap primary color */
+    padding: 20px;
+    border-radius: 10px;
+  }
+  .col {
+    background-color: #343a40; /* Dark gray */
+    padding: 15px;
+    border-radius: 10px;
+  }
